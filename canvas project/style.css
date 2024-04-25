@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightslategray;
+}
+
+h1, h3 {
+    font-family: "Oxygen", sans-serif;
+
+}
+
+h3 {
+    
+}
+
+#canvas{
+    border-color: black;
+    border-style: dashed;
+    margin-top: 100px;
+    background-color: rgba(245, 245, 245, 0.973);
+}
